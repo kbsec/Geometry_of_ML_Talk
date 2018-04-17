@@ -1,6 +1,7 @@
 # Geometry_of_ML_Talk
 ## Author: Kai Bernardini, kaidb [AT] [DOT] bu [DOT] edu
-Lecture slides written in jupyter notebook for a talk I gave about the geometry of Machine Learning.
+- Lecture slides written in jupyter notebook for a talk I gave about the geometry of Machine Learning.
+- Based on a talk I gave at  [Lookout](https://www.lookout.com/) during their Security Bootcamp. 
 
 
 # Slides are made using [RISE](https://github.com/damianavila/RISE)
