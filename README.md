@@ -12,6 +12,8 @@ Lecture slides written in jupyter notebook for a talk I gave about the geometry 
 
 
 # Try it out in [Bindr](https://mybinder.org/)
+- Note that using [h2o](https://www.h2o.ai/) will not work in bindr, as java is not installed by default. 
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kaidb/Geometry_of_ML_Talk.git/master)
 .. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/kaidb/Geometry_of_ML_Talk.git/master
 
