@@ -5,7 +5,8 @@ Lecture slides written in jupyter notebook for a talk I gave about the geometry 
 
 # Slides are made using [RISE](https://github.com/damianavila/RISE)
 
-# To setup reqs, execute `pip3 install -r requirements.txt` to install all requirements
+
+ To setup reqs, execute `pip3 install -r requirements.txt` to install all requirements
 
 # If you spot a mistake, please open an issue. 
 
