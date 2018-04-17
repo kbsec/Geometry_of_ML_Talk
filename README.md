@@ -11,6 +11,9 @@ Lecture slides written in jupyter notebook for a talk I gave about the geometry 
 # If you spot a mistake, please open an issue. 
 
 
+# Try it out in [Bindr](https://mybinder.org/)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kaidb/Geometry_of_ML_Talk.git/master)
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/kaidb/Geometry_of_ML_Talk.git/master
 
 
 # Sources [in progress]: 
@@ -24,3 +27,4 @@ Lecture slides written in jupyter notebook for a talk I gave about the geometry 
 - [Jupyter Dark theme](https://github.com/dunovank/jupyter-themes)
 - [Plotting Decision Boundaries](http://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_decision_regions.html)
 - [Typesetting ](https://tex.stackexchange.com/questions/183090/replicate-the-singular-value-decomposition-figure-in-latex)
+
