@@ -2,6 +2,7 @@
 ## Author: Kai Bernardini, kaidb [AT] bu [DOT] edu
 - Lecture slides written in jupyter notebook for a talk I gave about the geometry of Machine Learning.
 - Based on a talk I gave at  [Lookout](https://www.lookout.com/) during their Security Bootcamp. 
+- Slidehow is formated for the [Jupyter Dark theme](https://github.com/dunovank/jupyter-themes)
 
 
 # Slides are made using [RISE](https://github.com/damianavila/RISE)
@@ -26,7 +27,6 @@
 - [vis.js tutorial](https://www.codementor.io/isaib.cicourel/visjs-visualization-in-jupyter-notebook-phgb3fjv0)
 - [python wrapper for vis.js](http://nbviewer.jupyter.org/github/brm/plot3d/blob/master/plot3d.ipynb)
 - [Coursera](https://www.coursera.org)
-- [Jupyter Dark theme](https://github.com/dunovank/jupyter-themes)
 - [Plotting Decision Boundaries](http://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_decision_regions.html)
 - [Typesetting ](https://tex.stackexchange.com/questions/183090/replicate-the-singular-value-decomposition-figure-in-latex)
 
